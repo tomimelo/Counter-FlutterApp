@@ -1,4 +1,4 @@
-# counter
+# Basic Counter
 
 A new Flutter project.
 
